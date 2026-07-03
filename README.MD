@@ -20,9 +20,13 @@ interactive KPI dashboards and automated HTML reports.
 
 ## 📂 Project Structure
 
-data/         → Raw Excel / CSV input files
-notebooks/    → Jupyter analysis notebooks
-outputs/      → Generated HTML reports
+```
+data/            → Raw Excel / CSV input files
+notebooks/       → Jupyter analysis notebooks
+outputs/         → Generated HTML reports
+requirements.txt → Python dependencies
+README.md        → Project documentation
+```
 
 ---
 
