@@ -1,0 +1,36 @@
+SKU_ID,Category,Supplier,ABC_Class,Inventory_Status,Current_Stock,Reorder_Point,EOQ,Days_of_Supply,Recommended_Action
+SKU-1000,Packaging,Supplier_D,A — High Value,CRITICAL,52,2331,280,0.6557377049180328,⚠️ URGENT REORDER: Stock below lead-time buffer — order 280 units | 🏭 LONG LEAD TIME (28d): Consider dual-sourcing from a backup supplier
+SKU-1035,MRO,Supplier_B,A — High Value,CRITICAL,1,984,247,0.01594896331738437,⚠️ URGENT REORDER: Stock below lead-time buffer — order 247 units | 📈 HIGH VOLATILITY: Increase safety stock or switch to vendor-managed inventory
+SKU-1009,MRO,Supplier_B,A — High Value,CRITICAL,279,944,264,4.2465753424657535,⚠️ URGENT REORDER: Stock below lead-time buffer — order 264 units | 📈 HIGH VOLATILITY: Increase safety stock or switch to vendor-managed inventory
+SKU-1016,Packaging,Supplier_E,A — High Value,CRITICAL,325,513,217,6.0521415270018615,⚠️ URGENT REORDER: Stock below lead-time buffer — order 217 units
+SKU-1017,MRO,Supplier_H,A — High Value,CRITICAL,463,1619,254,8.038194444444445,⚠️ URGENT REORDER: Stock below lead-time buffer — order 254 units | 🏭 LONG LEAD TIME (25d): Consider dual-sourcing from a backup supplier
+SKU-1002,Sub-Assemblies,Supplier_D,A — High Value,CRITICAL,246,842,204,5.603644646924829,⚠️ URGENT REORDER: Stock below lead-time buffer — order 204 units
+SKU-1012,MRO,Supplier_G,A — High Value,CRITICAL,143,732,342,1.945578231292517,⚠️ URGENT REORDER: Stock below lead-time buffer — order 342 units
+SKU-1023,Raw Materials,Supplier_B,A — High Value,CRITICAL,147,757,236,3.0371900826446283,⚠️ URGENT REORDER: Stock below lead-time buffer — order 236 units
+SKU-1014,Packaging,Supplier_G,A — High Value,CRITICAL,123,1108,215,2.8873239436619715,⚠️ URGENT REORDER: Stock below lead-time buffer — order 215 units | 🏭 LONG LEAD TIME (22d): Consider dual-sourcing from a backup supplier
+SKU-1028,Packaging,Supplier_F,A — High Value,CRITICAL,150,317,265,3.0425963488843815,⚠️ URGENT REORDER: Stock below lead-time buffer — order 265 units | 📈 HIGH VOLATILITY: Increase safety stock or switch to vendor-managed inventory
+SKU-1034,Sub-Assemblies,Supplier_G,A — High Value,CRITICAL,571,692,247,12.918552036199094,⚠️ URGENT REORDER: Stock below lead-time buffer — order 247 units
+SKU-1020,Components,Supplier_F,A — High Value,CRITICAL,345,647,181,11.386138613861386,⚠️ URGENT REORDER: Stock below lead-time buffer — order 181 units | 📈 HIGH VOLATILITY: Increase safety stock or switch to vendor-managed inventory
+SKU-1027,Components,Supplier_F,A — High Value,CRITICAL,472,768,167,17.81132075471698,⚠️ URGENT REORDER: Stock below lead-time buffer — order 167 units | 📈 HIGH VOLATILITY: Increase safety stock or switch to vendor-managed inventory | 🏭 LONG LEAD TIME (24d): Consider dual-sourcing from a backup supplier
+SKU-1010,Packaging,Supplier_D,B — Medium Value,CRITICAL,197,1068,397,2.993920972644377,⚠️ URGENT REORDER: Stock below lead-time buffer — order 397 units
+SKU-1011,Sub-Assemblies,Supplier_D,B — Medium Value,CRITICAL,510,1654,461,7.285714285714286,⚠️ URGENT REORDER: Stock below lead-time buffer — order 461 units | 🏭 LONG LEAD TIME (21d): Consider dual-sourcing from a backup supplier
+SKU-1031,Packaging,Supplier_D,B — Medium Value,CRITICAL,262,1933,415,3.9280359820089954,⚠️ URGENT REORDER: Stock below lead-time buffer — order 415 units | 🏭 LONG LEAD TIME (27d): Consider dual-sourcing from a backup supplier
+SKU-1006,Sub-Assemblies,Supplier_A,B — Medium Value,CRITICAL,122,1003,389,2.1143847487001732,⚠️ URGENT REORDER: Stock below lead-time buffer — order 389 units
+SKU-1025,Sub-Assemblies,Supplier_D,B — Medium Value,CRITICAL,550,1306,307,13.784461152882207,⚠️ URGENT REORDER: Stock below lead-time buffer — order 307 units | 🏭 LONG LEAD TIME (29d): Consider dual-sourcing from a backup supplier
+SKU-1018,Raw Materials,Supplier_G,B — Medium Value,CRITICAL,348,697,522,5.378670788253477,⚠️ URGENT REORDER: Stock below lead-time buffer — order 522 units
+SKU-1004,MRO,Supplier_B,B — Medium Value,CRITICAL,202,1897,509,3.333333333333333,⚠️ URGENT REORDER: Stock below lead-time buffer — order 509 units | 🏭 LONG LEAD TIME (29d): Consider dual-sourcing from a backup supplier
+SKU-1007,Sub-Assemblies,Supplier_B,B — Medium Value,CRITICAL,400,666,262,12.5,⚠️ URGENT REORDER: Stock below lead-time buffer — order 262 units
+SKU-1032,Packaging,Supplier_F,B — Medium Value,CRITICAL,143,757,291,4.46875,⚠️ URGENT REORDER: Stock below lead-time buffer — order 291 units | 🏭 LONG LEAD TIME (23d): Consider dual-sourcing from a backup supplier
+SKU-1036,Sub-Assemblies,Supplier_B,C — Low Value,CRITICAL,303,614,197,14.29245283018868,⚠️ URGENT REORDER: Stock below lead-time buffer — order 197 units | 🏭 LONG LEAD TIME (22d): Consider dual-sourcing from a backup supplier
+SKU-1008,Sub-Assemblies,Supplier_E,C — Low Value,CRITICAL,293,930,289,10.851851851851851,⚠️ URGENT REORDER: Stock below lead-time buffer — order 289 units | 🏭 LONG LEAD TIME (28d): Consider dual-sourcing from a backup supplier
+SKU-1003,MRO,Supplier_F,C — Low Value,CRITICAL,438,683,795,6.186440677966102,⚠️ URGENT REORDER: Stock below lead-time buffer — order 795 units
+SKU-1039,Components,Supplier_B,C — Low Value,CRITICAL,36,372,101,4.044943820224719,⚠️ URGENT REORDER: Stock below lead-time buffer — order 101 units | 🏭 LONG LEAD TIME (25d): Consider dual-sourcing from a backup supplier
+SKU-1037,MRO,Supplier_D,C — Low Value,CRITICAL,253,838,596,4.8936170212765955,⚠️ URGENT REORDER: Stock below lead-time buffer — order 596 units
+SKU-1013,Components,Supplier_D,C — Low Value,CRITICAL,200,1016,506,4.6082949308755765,⚠️ URGENT REORDER: Stock below lead-time buffer — order 506 units
+SKU-1026,Sub-Assemblies,Supplier_B,C — Low Value,CRITICAL,337,1110,563,7.37417943107221,⚠️ URGENT REORDER: Stock below lead-time buffer — order 563 units | 🏭 LONG LEAD TIME (21d): Consider dual-sourcing from a backup supplier
+SKU-1015,Components,Supplier_D,C — Low Value,CRITICAL,186,467,824,2.8659476117103235,⚠️ URGENT REORDER: Stock below lead-time buffer — order 824 units
+SKU-1005,Components,Supplier_B,C — Low Value,CRITICAL,183,765,961,3.193717277486911,⚠️ URGENT REORDER: Stock below lead-time buffer — order 961 units
+SKU-1019,Packaging,Supplier_C,C — Low Value,CRITICAL,402,1276,1993,5.598885793871866,⚠️ URGENT REORDER: Stock below lead-time buffer — order 1993 units
+SKU-1021,MRO,Supplier_A,A — High Value,LOW,510,513,209,15.36144578313253,📦 REORDER SOON: Approaching reorder point of 513 units | 📈 HIGH VOLATILITY: Increase safety stock or switch to vendor-managed inventory
+SKU-1001,MRO,Supplier_A,C — Low Value,LOW,415,536,150,26.774193548387096,📦 REORDER SOON: Approaching reorder point of 536 units | 🏭 LONG LEAD TIME (25d): Consider dual-sourcing from a backup supplier
+SKU-1038,Raw Materials,Supplier_B,C — Low Value,LOW,452,464,118,39.64912280701754,📦 REORDER SOON: Approaching reorder point of 464 units | 🏭 LONG LEAD TIME (28d): Consider dual-sourcing from a backup supplier
