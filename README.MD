@@ -23,7 +23,6 @@ interactive KPI dashboards and automated HTML reports.
 ```
 data/            → Raw Excel / CSV input files
 notebooks/       → Jupyter analysis notebooks
-outputs/         → Generated HTML reports
 requirements.txt → Python dependencies
 README.md        → Project documentation
 ```
@@ -45,6 +44,5 @@ README.md        → Project documentation
 1. Place your Excel data file in `data/`
 2. Open the notebook in `notebooks/`
 3. Run all cells
-4. Find the HTML report in `outputs/`
 
 ---
